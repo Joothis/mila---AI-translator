@@ -3,3 +3,12 @@ requests
 speechrecognition
 gtts
 pygame
+deep-translator
+gtts
+os
+numpy
+pandas
+time
+threading
+json
+random
